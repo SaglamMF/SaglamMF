@@ -17,7 +17,7 @@ int main(){
     printf("5-Dikdortgende alan ve cevre hesabi\n");
     printf("6-Sayinin karesi\n");
     printf("7-Sayinin karesini alma\n");
-    printf("8-Sayiyi yukariya ve asagiya yuvarlama\n\n");
+    printf("8-Sayiyi yukariya ve asagiya yuvarlama\n");
     printf("9-Sayinin gucunu alma\n");
     printf("10-Sayinin logaritmasini alma\n");
     printf("11-Sayinin sinini alma\n");
